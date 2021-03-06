@@ -29,6 +29,18 @@ export default function Home() {
             <Col md="4">
               <GridItem />
             </Col>
+            <Col md="4">
+              <GridItem />
+            </Col>
+            <Col md="4">
+              <GridItem />
+            </Col>
+            <Col md="4">
+              <GridItem />
+            </Col>
+            <Col md="4">
+              <GridItem />
+            </Col>
           </Row>
         </div>
       </div>
